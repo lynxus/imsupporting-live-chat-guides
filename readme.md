@@ -9,7 +9,9 @@ using IMsupporting live chat solutions.
 
 🌐 Main Website: https://www.imsupporting.com
 📊 Enterprise Enquiries: https://www.imsupporting.com/contact
-🚀 Platform Overview: https://www.imsupporting.com/features
+🚀 Platform Overview: https://imsupporting.com/index.php#workflow-builder-showcase
+🌲 Advanced dynamic chat workflows: https://imsupporting.com/feature-hybrid-ai-chat-workflows.php
+🤖 RAG based Hybrid AI knowledgebase: https://imsupporting.com/feature-rag-based-ai-agent-knowledge.php
 
 ------------------------------------------------------------------------
 
