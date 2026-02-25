@@ -60,13 +60,7 @@ Typical installation steps:
     ```
     tag
 
-Example:
-
-``` html
-<script src="https://widget.chatcdn.imsupporting.com/widget.js"></script>
-```
-
-Full guide available in: `/guides/install-chat-widget.md`
+Full guide available at: https://imsupporting.com/installation-guide.php
 
 ------------------------------------------------------------------------
 
