@@ -1,6 +1,6 @@
 # IMsupporting Hybrid AI Live Chat -- Setup Guides & Technical Documentation
 
-Welcome to the official open documentation repository for **IMsupporting
+Welcome to the open documentation repository for **IMsupporting
 Hybrid AI Live Chat software**.
 
 This repository provides step-by-step tutorials, technical setup guides,
